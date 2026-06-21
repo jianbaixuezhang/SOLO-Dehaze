@@ -172,7 +172,7 @@ python main.py --mode train --no_resume
 
 ### Default hyperparameters
 
-| Parameter | Default |描述|
+| Parameter | Default |Description描述|
 |-----------|---------|-------------|
 | `num_epochs` | 6000 | Total training epochs |
 | `batch_size` | 4 | Training batch size |
@@ -197,7 +197,7 @@ python main.py --mode train --resume_path results/checkpoints/last_full.pt
 
 During training, the following are written to `results/`:
 
-| File / folder |描述|
+| File / folder |Description描述|
 |---------------|-------------|
 | `checkpoints/last_full.pt` | Latest full checkpoint (model + optimizer + contrastive module) |
 | `checkpoints/best_weights.pt` | Best dehazing weights (by validation score) |
