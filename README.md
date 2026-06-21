@@ -9,7 +9,7 @@ SOLO-Dehaze: Scale-Oriented Laplacian Optimization with Contrastive Domain Align
 - [Environment Setup](#environment-setup)
 - [Dataset Configuration](#dataset-configuration)
 - [Quick Start](#quick-start)
-- [培训](#training)
+- [train](#training)
 - [Testing](#testing)
 - [Weights and Checkpoints](#weights-and-checkpoints)
 - [Evaluation Metrics](#evaluation-metrics)
