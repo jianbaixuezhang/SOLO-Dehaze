@@ -29,10 +29,10 @@ SOLO-Dehaze/
 │   ├── SOLODehaze.py       # SOLO-Dehaze network
 │   ├── TransformerBlock.py
 │   ├── LightweightLinearAttn.py
-│   ├── PhaseConsistencyLoss.py
-│   ├── PerceptualLoss.py
-│   ├── ContrastiveDomainLoss.py
-│   └── ColorLoss.py
+│   ├── PhaseConsistencyLoss.py  #The complete code will be made public after the paper is officially accepted
+│   ├── PerceptualLoss.py  #The complete code will be made public after the paper is officially accepted
+│   ├── ContrastiveDomainLoss.py  #The complete code will be made public after the paper is officially accepted
+│   └── ColorLoss.py  #The complete code will be made public after the paper is officially accepted
 ├── util/
 │   └── metrics.py          # PSNR, SSIM, CIEDE2000, LPIPS
 ├── dataset/                # Place your data here (not included)
